@@ -1,5 +1,8 @@
 🧠 Autonomous Self-Healing SQL Agent
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c52645c4-367b-46c6-a7fa-4a307e62f120" />
+
+
 📖 Executive Summary & Theoretical Abstract
 
 In classical software engineering, data retrieval pipelines are strictly linear and deterministic. However, when introducing Large Language Models (LLMs) into data engineering workflows, their probabilistic nature inherently introduces syntax errors, schema hallucinations, and logic failures.
