@@ -1,6 +1,7 @@
 🧠 Autonomous Self-Healing SQL Agent
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c52645c4-367b-46c6-a7fa-4a307e62f120" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0c638ed3-ae1a-4041-8238-3d16abc27527" />
+
 
 
 📖 Executive Summary & Theoretical Abstract
